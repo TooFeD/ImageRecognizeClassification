@@ -1,0 +1,24 @@
+stX= 95	stY=80
+fnX= 154	fnY=80	Square590
+stX= 49	stY=90
+fnX= 188	fnY=90	Square1980
+stX= 25	stY=100
+fnX= 225	fnY=100	Square3980
+stX= 12	stY=110
+fnX= 246	fnY=110	Square6320
+stX= 9	stY=120
+fnX= 256	fnY=120	Square8790
+stX= 11	stY=130
+fnX= 260	fnY=130	Square11280
+stX= 1	stY=140
+fnX= 291	fnY=140	Square14180
+stX= 11	stY=150
+fnX= 259	fnY=150	Square16660
+stX= 9	stY=160
+fnX= 254	fnY=160	Square19110
+stX= 15	stY=170
+fnX= 243	fnY=170	Square21390
+stX= 29	stY=180
+fnX= 215	fnY=180	Square23250
+stX= 56	stY=190
+fnX= 183	fnY=190	Square24520

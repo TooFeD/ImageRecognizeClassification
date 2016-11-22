@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.576,C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\diployats\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.074,=D:\diployats\OneDrive\ImageClassification\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=D:\diployats\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Project2.cbproj=D:\diployats\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,=D:\Яцик\ImageClassification\ImageClassification\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\diployats\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,=C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,=C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\diployats\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Valik\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
